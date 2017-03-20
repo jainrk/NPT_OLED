@@ -20,7 +20,7 @@
 
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
-#include <SSD1306.h> //https://github.com/squix78/esp8266-oled-ssd1306 
+#include <SSD1306.h> //download here - https://github.com/squix78/esp8266-oled-ssd1306
 
 #define aSSID  "mySSID"
 #define aPASSWORD "myPWD"
